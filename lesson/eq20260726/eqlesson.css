@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'Palatino';
+	src: url('palr45w.ttf') format('truetype');	
+}
+
+body {
+	background-color:#153359;
+	color:#FFFFFF;
+	text-decoration:none;
+	font-family:'Palatino';
+	
+}
+
+a:link {
+	color:#49CCE6;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#49CCE6;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#7DE3F4 !important;
+	text-decoration:none !important;
+}
+
+a:active{
+	color:#FFFFFF !important;
+	text-decoration:none !important;
+}
